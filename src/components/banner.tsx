@@ -27,7 +27,7 @@ export default function Banner() {
           </Button>
         </div>
         <Image
-          className="md:block hidden mr-16"
+          className="md:block hidden mr-16 overflow-hidden"
           src="/mdoctor.png"
           alt="image is not found"
           width={1000}
